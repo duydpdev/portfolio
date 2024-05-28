@@ -1,7 +1,7 @@
-import LeftPart from "../components/left.part";
-import MenuMobile from "../components/mobile/menu";
-import Preloader from "../components/preloader";
-import RightPart from "../components/right.part";
+import LeftPart from "@/components/left.part";
+import MenuMobile from "@/components/mobile/menu";
+import Preloader from "@/components/preloader";
+import RightPart from "@/components/right.part";
 
 export default function PortfolioPage() {
   return (
