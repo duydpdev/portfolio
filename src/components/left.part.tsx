@@ -18,6 +18,9 @@ export default function LeftPart() {
                 <a href="#about">About</a>
               </li>
               <li>
+                <a href="#skills">Skills</a>
+              </li>
+              <li>
                 <a href="#services">Project</a>
               </li>
               <li>
