@@ -21,7 +21,7 @@ export default function LeftPart() {
                 <a href="#skills">Skills</a>
               </li>
               <li>
-                <a href="#services">Project</a>
+                <a href="#projects">Project</a>
               </li>
               <li>
                 <a href="#portfolio">Portfolio</a>

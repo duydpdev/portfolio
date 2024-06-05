@@ -1252,9 +1252,11 @@ img.svg {
 		-moz-box-sizing: border-box;
 		box-sizing: border-box;
 		ul {
+			
 			margin: 0px 0px 0px -30px;
 			list-style-type: none;
 			li {
+				cursor: pointer;
 				margin: 0px 0px 30px 0px;
 				float: left;
 				width: 33.3333%;
