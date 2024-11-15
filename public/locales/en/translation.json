@@ -1,0 +1,58 @@
+{
+    "appHeader": {
+        "brand": "Phan Duy Dev",
+        "home": "Home",
+        "project": "Project",
+        "contact": "Contact",
+        "about": "About"
+    },
+    "heroSection": {
+        "exp": "My Skill",
+        "cv": "Get Resume"
+    },
+    "introSection": {
+        "about": "About me",
+        "and": "and",
+        "heading1": "I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️",
+        "heading2": "I am fluent in classics like",
+        "heading3": "My field of Interest's are building new",
+        "heading4": "Web Technologies and Products",
+        "heading5": "Whenever possible, I also apply my passion for developing products with"
+    },
+    "experience": {
+        "title": "Experiences"
+    },
+    "skill": {
+        "title": "Skills"
+    },
+    "projectSection": {
+        "subHeading": "Here are a few projects I've worked on recently."
+    },
+    "aboutSection": {
+      "introduce": "Hi Everyone, I am Phan Duy from DaNang, VietNam.",
+      "workAt": "I am currently a full-time employee at Glory Software and also work as a freelance developer.",
+      "study": "I have completed Bachelor's degree in Software Engineer at FPT University (DaNang).",
+      "hobbies": {
+        "desc": "Apart from coding, some other activities that I love to do!",
+        "list": [
+          {
+            "name": "Reading Books"
+          },
+          {
+            "name": "Playing Games"
+          },
+          {
+            "name": "Watching Movies"
+          },
+          {
+            "name": "Traveling"
+          }
+        ]
+      }
+    },
+    "notFound": {
+        "title": "Oops! Page Not Found",
+        "desc": "The page you are looking for doesn’t exist or has been moved.",
+        "home": "Go Back Home"
+    }
+}

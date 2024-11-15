@@ -1,0 +1,58 @@
+{
+    "appHeader": {
+        "brand": "Phan Duy Dev",
+        "home": "Trang chủ",
+        "project": "Dự án",
+        "contact": "Liên hệ",
+        "about": "Về tác giả"
+    },
+    "heroSection": {
+        "exp": "Kinh nghiệm",
+        "cv": "Tải Resume"
+    },
+    "introSection": {
+        "about": "Giới thiệu",
+        "and": "và",
+        "heading1": "Yêu đơn phương lập trình và tôi tin rằng mình đã học hỏi được ít nhiều điều gì đó. 🤷‍♂️",
+        "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
+        "heading3": "Lĩnh vực quan tâm của tôi là",
+        "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+        "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+    },
+    "experience": {
+        "title": "Kinh nghiệm làm việc"
+    },
+    "skill": {
+        "title": "Kỹ năng"
+    },
+    "projectSection": {
+      "subHeading": "Dưới đây là một số dự án mà tôi đã tham gia gần đây."
+    },
+    "aboutSection": {
+        "introduce": "Xin chào mọi người, tôi là Phan Duy đến từ Đà Nẵng, Việt Nam.",
+        "workAt": "Hiện tôi đang làm việc toàn thời gian tại Glory Software và cũng làm việc tự do.",
+        "study": "Tôi đã tốt nghiệp Cử nhân Kỹ sư Phần mềm tại Đại học FPT (Đà Nẵng).",
+        "hobbies": {
+        "desc": "Ngoài việc lập trình, một số hoạt động khác mà tôi yêu thích!",
+        "list": [
+          {
+            "name": "Đọc sách"
+          },
+          {
+            "name": "Chơi game"
+          },
+          {
+            "name": "Xem phim"
+          },
+          {
+            "name": "Du lịch"
+          }
+        ]
+      }
+    },
+    "notFound": {
+        "title": "Oops! Trang không tồn tại",
+        "desc": "Trang bạn đang tìm kiếm không tồn tại hoặc đã được chuyển đi.",
+        "home": "Quay lại trang chủ"
+    }
+}
